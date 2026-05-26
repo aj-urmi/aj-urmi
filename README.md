@@ -10,12 +10,15 @@
 </h3>
 ---
 ## 💫 About Me
+
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 ✨ CSE Student at Daffodil International University  
 ✨ Interested in AI, Research & Networking  
 ✨ Love building creative and real-world projects  
 ✨ Currently learning Java, Python, Database & Web Development  
-✨ Exploring modern technologies and innovation  
+✨ Exploring modern technologies and innovation 
+
 <br><br><br><br><br><br>
 
 ---
