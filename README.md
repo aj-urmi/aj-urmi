@@ -106,16 +106,6 @@
 
 ---
 
-## 🌸 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aj-urmi&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
-
-</p>
-
----
-
 <p align="center">
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
