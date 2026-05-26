@@ -1,91 +1,151 @@
 # ✨ Hi, I'm Urmi 👋
 
-🎓 CSE Student at Daffodil International University  
-💻 Passionate about Software Development, Networking & AI  
-🌱 Currently Learning Java, Python, C++, MySQL & Web Development  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76EF7&center=true&vCenter=true&width=500&lines=CSE+Student+at+DIU;Java+%7C+Python+%7C+C%2B%2B+Developer;AI+%26+Networking+Enthusiast;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  🌸 Passionate about Software Development, Networking & AI 🌸
+</p>
 
 ---
 
-# 🧠 Tech Stack & Skills
+# 🌐 Socials
 
-## 💡 Core Skills
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4CAF50?style=flat)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-FF9800?style=flat)
-![Networking](https://img.shields.io/badge/Computer%20Networking-2196F3?style=flat)
-![Database](https://img.shields.io/badge/Database%20Management-9C27B0?style=flat)
-
----
-
-## 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+<p align="center">
+  <a href="https://www.facebook.com/afrose.jahan.urmi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/aj-urmi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+# 💫 About Me
 
----
-
-## 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-## ⚡ Tools & Development Environment
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat)
+✨ CSE Student at Daffodil International University  
+✨ Interested in AI, Networking & Software Development  
+✨ Love learning new technologies and building projects  
+✨ Working on Java, Python, Database & Networking projects  
+✨ Trying to improve my development skills every day  
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🚌 Bus Management System
-A smart bus management system for handling routes, passengers and schedules.
+A smart system for managing buses, passengers, routes and schedules efficiently.
 
 ## 🌐 Small Business Network System
-A networking project designed for secure small business communication.
+A secure networking system for small business communication and department segmentation.
 
 ## 💻 System Monitoring And Resource Toolkit
-A toolkit to monitor CPU, RAM and system resources.
+A toolkit for monitoring CPU, RAM, disk usage and system resources.
 
 ## 🔬 Advanced Scientific Calculator
-A scientific calculator with advanced mathematical operations.
+A scientific calculator capable of performing advanced mathematical operations.
 
 ## 🏦 Bank Management System
-A banking application for account and transaction management.
+A banking application for handling accounts, transactions and customer management.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  
+![](https://github-readme-stats.shion.dev/api?username=aj-urmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=aj-urmi&theme=tokyonight&hide_border=true)
 
----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aj-urmi&theme=tokyonight&hide_border=true&layout=compact)
 
-# 🔥 GitHub Activity Overview
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
----
-
-# 🌸 About Me
-
-✨ Interested in AI, Networking & Software Development  
-✨ Love learning new technologies  
-✨ Passionate about innovation and research  
-✨ Building projects to improve my skills every day  
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aj-urmi&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=aj-urmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=aj-urmi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</p>
+
+---
+
+# 🌸 Profile Views
+
+<p align="center">
+
+[![](https://komarev.com/ghpvc/?username=aj-urmi&label=Profile+Views&color=ff69b4&style=for-the-badge)](https://github.com/aj-urmi)
+
+</p>
+
+---
+
+<p align="center">
+  
+### 💖 Thanks for Visiting My Profile 💖
+
+</p>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
