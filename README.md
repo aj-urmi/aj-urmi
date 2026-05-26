@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Urmi 👋
+## ✨ Hi, I'm Urmi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=CSE+Student+at+DIU;Java+%7C+Python+%7C+C%2B%2B+Developer;AI+%26+Networking+Enthusiast;Future+Software+Engineer+💻" />
@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -28,7 +28,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# #🌐 Connect With Me
 
 <p align="center">
   
@@ -44,7 +44,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -54,23 +54,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🌟 Project Name | 💡 Description | ⚙️ Technologies |
-|---|---|---|
-| 🚌 **Bus Management System** | Smart system for bus routes, schedules and passenger management | Java, MySQL |
-| 🌐 **Small Business Network System** | Secure network design for small business communication | Cisco Packet Tracer |
-| 💻 **System Monitoring & Resource Toolkit** | Monitor CPU, RAM and system performance | Python |
-| 🔬 **Advanced Scientific Calculator** | Advanced calculator for mathematical operations | Java / Python |
-| 🏦 **Bank Management System** | Banking system for account and transaction handling | Java, MySQL |
-
-</div>
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -82,7 +66,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -92,7 +76,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -102,7 +86,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -112,7 +96,7 @@
 
 ---
 
-# ✨ Random Dev Quote
+## ✨ Random Dev Quote
 
 <p align="center">
 
@@ -122,7 +106,7 @@
 
 ---
 
-# 🌸 Profile Views
+## 🌸 Profile Views
 
 <p align="center">
 
